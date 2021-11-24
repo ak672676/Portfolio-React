@@ -1,0 +1,21 @@
+.education{
+
+}
+.education-block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.education-image{
+    width: 380px;
+}
+
+
+@media only screen and (max-width: 720px) {
+    .education-block{
+        flex-direction: column-reverse;
+    }
+    .education-image{
+        width: 280px;
+    }
+}

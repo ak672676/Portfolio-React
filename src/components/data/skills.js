@@ -32,6 +32,10 @@ export const SkilData = [
         icon: require("../../assets/react.png").default,
       },
       {
+        skillName: "Flutter",
+        icon: require("../../assets/flutter.png").default,
+      },
+      {
         skillName: "Bootstrap",
         icon: require("../../assets/bootstrap.png").default,
       },

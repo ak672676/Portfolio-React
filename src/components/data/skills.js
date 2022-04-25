@@ -7,7 +7,7 @@ export const SkilData = [
         icon: require("../../assets/javascript.png").default,
       },
       {
-        skillName: "Java",
+        skillName: "Core Java",
         icon: require("../../assets/java.png").default,
       },
       {
